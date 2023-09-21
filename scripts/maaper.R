@@ -12,5 +12,5 @@ maaper(gtf, # full path of the GTF file
        output_dir = "./", # output directory
        bam_c1, bam_c2, # full path of the BAM files
        read_len = 76, # read length
-       ncores = 1  # number of cores used for parallel computation 
+       ncores = 1  # number of cores used windows OS 
 )
