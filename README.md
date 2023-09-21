@@ -36,11 +36,11 @@ If you're intrigued and want to join me on this bioinformatic adventure, you can
 
 -   The GTF file of the reference genome;
 
--   The BAM files of the 3\' sequencing data (nearSite reads). The BAM file should be sorted and the index BAI file should be present in the same directory as the BAM file;
+-   The BAM files of the 3' sequencing data (nearSite reads). The BAM file should be sorted and the index BAI file should be present in the same directory as the BAM file;
 
 -   The PAS annotation file whose version matches the reference genome. We have prepared [PolyA_DB](https://exon.apps.wistar.org/PolyA_DB/v3/) annotation files for MAAPER, and they can be downloaded from [this page](https://github.com/Vivianstats/data-pkg/tree/main/MAAPER/PolyA_DB).
 
-    The final output of `mapper` are two text files named \"gene.txt\" and \"pas.txt\", which contain the predicted PASs and APA results.
+    The final output of `mapper` are two text files named "gene.txt" and "pas.txt", which contain the predicted PASs and APA results.
 
 ## Reference:
 
@@ -53,6 +53,8 @@ Li, W. V., Zheng, D., Wang, R., & Tian, B. (2021). MAAPER: model-based analysis 
 ## Access data:
 
 <https://github.com/Vivianstats/MAAPER>
+
+<https://cran.rstudio.com/web/packages/MAAPER/index.html>
 
 ## **Input & output data available in the data folder**
 
