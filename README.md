@@ -1,4 +1,4 @@
-# Predicting APA Isoforms with MAAPER: A Bioinformatic tool testing
+# Predicting APA Isoforms with MAAPER: A Bioinformatic tool Testing
 
 ## **Overview**
 
@@ -42,13 +42,13 @@ If you're intrigued and want to join me on this bioinformatic adventure, you can
 
     The final output of `mapper` are two text files named \"gene.txt\" and \"pas.txt\", which contain the predicted PASs and APA results.
 
-## References:
+## Reference:
 
-Shaw, P., Chaotheing, S., Kaewprommal, P., Piriyapongsa, J., Wongsombat, C., Suwannakitti, N., Koonyosying, P., Uthaipibull, C., Yuthavong, Y., & Kamchonwongpaisan, S. (2015). Plasmodium parasites mount an arrest response to dihydroartemisinin, as revealed by whole transcriptome shotgun sequencing (RNA-seq) and microarray study. *BMC Genomics*, *16*(1). <https://doi.org/10.1186/s12864-015-2040-0>
+Li, W. V., Zheng, D., Wang, R., & Tian, B. (2021). MAAPER: model-based analysis of alternative polyadenylation using 3' end-linked reads. *Genome biology*, *22*(1), 222. <https://doi.org/10.1186/s13059-021-02429-5>
 
 ## Blog:
 
-Li, W. V., Zheng, D., Wang, R., & Tian, B. (2021). MAAPER: model-based analysis of alternative polyadenylation using 3' end-linked reads. *Genome biology*, *22*(1), 222. <https://doi.org/10.1186/s13059-021-02429-5>
+<https://ssidmarine.wordpress.com/2023/09/20/predicting-apa-isoforms-with-maaper-a-bioinformatic-tool/>
 
 ## Access data:
 
