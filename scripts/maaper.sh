@@ -7,7 +7,7 @@
 #SBATCH --time=12:00:00
 #SBATCH -o run.out
 #SBATCH -e run.err
-#SBATCH --mail-user=chingyao@usf.edu
+#SBATCH --mail-user=
 #SBATCH --job-name=maaper_job
 #SBATCH --output=maaper_job.out
 #SBATCH --partition=rra --qos=rra
