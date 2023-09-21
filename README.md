@@ -55,3 +55,5 @@ Li, W. V., Zheng, D., Wang, R., & Tian, B. (2021). MAAPER: model-based analysis 
 <https://github.com/Vivianstats/MAAPER>
 
 ## **Input & output data available in the data folder**
+
+<https://github.com/chingyaousf/Predicting-APA-Isoforms-with-MAAPER-A-Bioinformatic-tool/tree/main/data>
