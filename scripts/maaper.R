@@ -1,3 +1,4 @@
+install.packages("MAAPER")
 library(MAAPER)
 pas_annotation = readRDS("./mouse.PAS.mm9.rds")
 gtf = "./gencode.mm9.chr19.gtf"
