@@ -1,0 +1,583 @@
+gene	pas	type	frac.c1	frac.c2
+Kmt5b	chr19:3816639:+	3' most exon	0.307	0.472
+Kmt5b	chr19:3818300:+	3' most exon	0.306	0.169
+Kmt5b	chr19:3816465:+	3' most exon	0.387	0.359
+Chka	chr19:3894367:+	3' most exon	0.915	0.652
+Chka	chr19:3893577:+	3' most exon	0.0853	0.348
+Tmem134	chr19:4132293:+	3' most exon	0.169	0.183
+Tmem134	chr19:4131732:+	3' most exon	0.831	0.817
+Pcx	chr19:4622007:+	3' most exon	0.57	0.531
+Pcx	chr19:4621703:+	3' most exon	0.43	0.469
+Rbm4b	chr19:4765940:+	3' most exon	0.781	0.817
+Rbm4b	chr19:4761348:+	Intron	0.147	0.12
+Rbm4b	chr19:4758978:+	Intron	0.0722	0.0637
+Cd248	chr19:5070893:+	Single exon	0.666	0.617
+Cd248	chr19:5070640:+	Single exon	0.334	0.383
+Yif1a	chr19:5092711:+	3' most exon	0.049	0.117
+Yif1a	chr19:5092505:+	3' most exon	0.864	0.827
+Yif1a	chr19:5092888:+	3' most exon	0.0865	0.0552
+Eif1ad	chr19:5371446:+	3' most exon	0.557	0.445
+Eif1ad	chr19:5370248:+	3' most exon	0.443	0.555
+AI837181	chr19:5427571:+	3' most exon	0.809	0.917
+AI837181	chr19:5427320:+	3' most exon	0.191	0.0834
+Efemp2	chr19:5481853:+	3' most exon	0.456	0.326
+Efemp2	chr19:5481953:+	3' most exon	0.544	0.674
+Cfl1	chr19:5494277:+	3' most exon	0.851	0.923
+Cfl1	chr19:5494001:+	3' most exon	0.149	0.0769
+Rnaseh2c	chr19:5602936:+	3' most exon	0.164	0.176
+Rnaseh2c	chr19:5602685:+	Intron	0.836	0.824
+Ehd1	chr19:6300008:+	3' most exon	0.273	0.259
+Ehd1	chr19:6298934:+	3' most exon	0.727	0.741
+Bad	chr19:7026418:+	3' most exon	0.859	0.597
+Bad	chr19:7019312:+	Intron	0.141	0.403
+Ppp1r14b	chr19:7051841:+	3' most exon	0.94	0.842
+Ppp1r14b	chr19:7051741:+	3' most exon	0.06	0.158
+Atl3	chr19:7614073:+	3' most exon	0.649	0.439
+Atl3	chr19:7573835:+	Intron	0.0594	0.2
+Atl3	chr19:7613055:+	3' most exon	0.18	0.213
+Atl3	chr19:7609585:+	3' most exon	0.112	0.148
+Snhg1	chr19:8800933:+	3' most exon	0.892	0.888
+Snhg1	chr19:8800151:+	Intron	0.108	0.112
+Hnrnpul2	chr19:8906630:+	3' most exon	0.381	0.349
+Hnrnpul2	chr19:8908633:+	3' most exon	0.619	0.651
+Ubxn1	chr19:8950355:+	3' most exon	0.437	0.489
+Ubxn1	chr19:8950068:+	3' most exon	0.134	0.103
+Ubxn1	chr19:8950228:+	3' most exon	0.429	0.408
+1810009A15Rik	chr19:8965272:+	3' most exon	0.949	0.927
+1810009A15Rik	chr19:8967117:+	3' most exon	0.0509	0.0733
+Fth1	chr19:10059707:+	3' most exon	0.668	0.708
+Fth1	chr19:10059583:+	3' most exon	0.332	0.292
+Fads3	chr19:10132868:+	3' most exon	0.696	0.796
+Fads3	chr19:10134153:+	3' most exon	0.142	0.0932
+Fads3	chr19:10134867:+	3' most exon	0.162	0.11
+Mrpl16	chr19:11849540:+	3' most exon	0.737	0.832
+Mrpl16	chr19:11850968:+	3' most exon	0.0776	0.0433
+Mrpl16	chr19:11849293:+	3' most exon	0.186	0.124
+Patl1	chr19:12019533:+	3' most exon	0.869	0.82
+Patl1	chr19:12012517:+	Intron	0.131	0.18
+Osbp	chr19:12068574:+	3' most exon	0.974	0.684
+Osbp	chr19:12066830:+	3' most exon	0.026	0.316
+Fam111a	chr19:12664188:+	3' most exon	0.667	0.518
+Fam111a	chr19:12662524:+	3' most exon	0.124	0.117
+Fam111a	chr19:12650422:+	Intron	0.0146	0.0803
+Fam111a	chr19:12661761:+	3' most exon	0.103	0.157
+Fam111a	chr19:12661501:+	3' most exon	0.0915	0.128
+Gnaq	chr19:16461877:+	3' most exon	0.353	0.413
+Gnaq	chr19:16463010:+	3' most exon	0.157	0.143
+Gnaq	chr19:16460483:+	3' most exon	0.356	0.286
+Gnaq	chr19:16459072:+	3' most exon	0.0471	0.0602
+Gnaq	chr19:16460129:+	3' most exon	0.0862	0.0978
+Rfk	chr19:17475006:+	3' most exon	0.161	0.231
+Rfk	chr19:17475929:+	3' most exon	0.839	0.769
+Zfand5	chr19:21356517:+	3' most exon	0.479	0.325
+Zfand5	chr19:21355353:+	3' most exon	0.174	0.289
+Zfand5	chr19:21356780:+	3' most exon	0.347	0.386
+Abhd17b	chr19:21760125:+	3' most exon	0.669	0.774
+Abhd17b	chr19:21728499:+	Intron	0.155	0.135
+Abhd17b	chr19:21759932:+	3' most exon	0.175	0.0919
+Tmem2	chr19:21933224:+	3' most exon	0.0957	0.0529
+Tmem2	chr19:21931520:+	3' most exon	0.302	0.307
+Tmem2	chr19:21932812:+	3' most exon	0.603	0.64
+Trpm3	chr19:22518157:+	Intron	0.357	0.292
+Trpm3	chr19:22516594:+	Intron	0.643	0.708
+Klf9	chr19:23242558:+	3' most exon	0.491	0.378
+Klf9	chr19:23240419:+	3' most exon	0.0577	0.073
+Klf9	chr19:23240211:+	3' most exon	0.451	0.549
+Ptar1	chr19:23803412:+	3' most exon	0.515	0.629
+Ptar1	chr19:23806154:+	3' most exon	0.307	0.172
+Ptar1	chr19:23795108:+	3' most exon	0.178	0.198
+Gm9938	chr19:23803412:+	Single exon	0.612	0.775
+Gm9938	chr19:23806154:+	Single exon	0.388	0.225
+Gm10053	chr19:24951373:+	Single exon	0.129	0.143
+Gm10053	chr19:24950707:+	Single exon	0.871	0.857
+Dock8	chr19:25108091:+	Intron	0.801	0.895
+Dock8	chr19:25276921:+	3' most exon	0.199	0.105
+Cdc37l1	chr19:29092017:+	Intron	0.692	0.596
+Cdc37l1	chr19:29069750:+	Internal exon	0.176	0.259
+Cdc37l1	chr19:29091136:+	Intron	0.132	0.145
+Rcl1	chr19:29218634:+	3' most exon	0.677	0.74
+Rcl1	chr19:29218336:+	3' most exon	0.323	0.26
+Mir101b	chr19:29218634:+	3' most exon	0.685	0.754
+Mir101b	chr19:29218336:+	3' most exon	0.315	0.246
+Jak2	chr19:29387585:+	3' most exon	0.807	0.801
+Jak2	chr19:29387083:+	3' most exon	0.193	0.199
+Ric1	chr19:29679751:+	3' most exon	0.691	0.78
+Ric1	chr19:29681319:+	3' most exon	0.309	0.22
+Minpp1	chr19:32589851:+	3' most exon	0.722	0.49
+Minpp1	chr19:32562690:+	Intron	0.278	0.51
+Pten	chr19:32833435:+	Intron	0.404	0.369
+Pten	chr19:32894861:+	3' most exon	0.138	0.23
+Pten	chr19:32900594:+	3' most exon	0.21	0.138
+Pten	chr19:32900018:+	3' most exon	0.168	0.123
+Pten	chr19:32895119:+	3' most exon	0.0792	0.14
+Pcgf5	chr19:36530926:+	3' most exon	0.374	0.397
+Pcgf5	chr19:36535460:+	3' most exon	0.116	0.0596
+Pcgf5	chr19:36530691:+	3' most exon	0.51	0.543
+Btaf1	chr19:37087294:+	3' most exon	0.538	0.558
+Btaf1	chr19:37088547:+	3' most exon	0.24	0.103
+Btaf1	chr19:37051443:+	Intron	0.103	0.106
+Btaf1	chr19:37086521:+	3' most exon	0.118	0.233
+March5	chr19:37296627:+	3' most exon	0.457	0.388
+March5	chr19:37296483:+	3' most exon	0.543	0.612
+Kif11	chr19:37496310:+	3' most exon	0.193	0.126
+Kif11	chr19:37495190:+	3' most exon	0.677	0.793
+Kif11	chr19:37495709:+	3' most exon	0.13	0.0805
+Exoc6	chr19:37758476:+	3' most exon	0.48	0.365
+Exoc6	chr19:37757743:+	3' most exon	0.52	0.635
+Cep55	chr19:38149229:+	3' most exon	0.316	0.669
+Cep55	chr19:38137297:+	Intron	0.0914	0.0331
+Cep55	chr19:38148912:+	3' most exon	0.592	0.298
+Hells	chr19:39042767:+	3' most exon	0.632	0.733
+Hells	chr19:39045956:+	3' most exon	0.195	0.0981
+Hells	chr19:39044923:+	3' most exon	0.173	0.169
+Ubtd1	chr19:42109140:+	3' most exon	0.953	0.948
+Ubtd1	chr19:42090094:+	Intron	0.0466	0.0524
+Entpd7	chr19:43807121:+	3' most exon	0.614	0.579
+Entpd7	chr19:43805426:+	3' most exon	0.386	0.421
+Hif1an	chr19:44650764:+	3' most exon	0.767	0.702
+Hif1an	chr19:44647420:+	3' most exon	0.149	0.178
+Hif1an	chr19:44646415:+	3' most exon	0.0841	0.12
+Slf2	chr19:45058276:+	3' most exon	0.302	0.219
+Slf2	chr19:45057634:+	3' most exon	0.371	0.428
+Slf2	chr19:45056986:+	3' most exon	0.0915	0.0958
+Slf2	chr19:45058533:+	3' most exon	0.236	0.257
+Twnk	chr19:45087252:+	3' most exon	0.824	0.841
+Twnk	chr19:45085792:+	Intron	0.176	0.159
+Sfxn3	chr19:45130873:+	3' most exon	0.734	0.75
+Sfxn3	chr19:45131100:+	3' most exon	0.266	0.25
+Kazald1	chr19:45153775:+	3' most exon	0.837	0.599
+Kazald1	chr19:45154130:+	3' most exon	0.163	0.401
+Btrc	chr19:45471048:+	Intron	0.213	0.612
+Btrc	chr19:45607747:+	3' most exon	0.468	0.2
+Btrc	chr19:45603787:+	3' most exon	0.319	0.188
+Dpcd	chr19:45652406:+	3' most exon	0.725	0.699
+Dpcd	chr19:45652541:+	3' most exon	0.275	0.301
+Pprc1	chr19:46147401:+	3' most exon	0.563	0.564
+Pprc1	chr19:46147171:+	3' most exon	0.437	0.436
+Nolc1	chr19:46160020:+	3' most exon	0.249	0.151
+Nolc1	chr19:46159025:+	3' most exon	0.751	0.849
+Nfkb2	chr19:46386842:+	3' most exon	0.702	0.639
+Nfkb2	chr19:46389864:+	3' most exon	0.127	0.0864
+Nfkb2	chr19:46386580:+	3' most exon	0.171	0.275
+Sfxn2	chr19:46671384:+	3' most exon	0.72	0.793
+Sfxn2	chr19:46669770:+	3' most exon	0.28	0.207
+Wbp1l	chr19:46731879:+	3' most exon	0.794	0.86
+Wbp1l	chr19:46732123:+	3' most exon	0.206	0.14
+Borcs7	chr19:46777868:+	3' most exon	0.33	0.335
+Borcs7	chr19:46776399:+	3' most exon	0.67	0.665
+Taf5	chr19:47157969:+	3' most exon	0.682	0.476
+Taf5	chr19:47145694:+	Internal exon	0.318	0.524
+Pdcd11	chr19:47206353:+	3' most exon	0.148	0.0979
+Pdcd11	chr19:47205744:+	3' most exon	0.677	0.622
+Pdcd11	chr19:47205636:+	3' most exon	0.174	0.28
+Slk	chr19:47719678:+	3' most exon	0.789	0.705
+Slk	chr19:47716945:+	3' most exon	0.173	0.234
+Slk	chr19:47718400:+	3' most exon	0.0383	0.0613
+Sfr1	chr19:47810079:+	3' most exon	0.93	0.915
+Sfr1	chr19:47808314:+	Internal exon	0.0697	0.0851
+Gsto2	chr19:47960798:+	3' most exon	0.84	0.9
+Gsto2	chr19:47945413:+	Intron	0.108	0.0834
+Gsto2	chr19:47960551:+	3' most exon	0.0518	0.0169
+Add3	chr19:53321527:+	3' most exon	0.777	0.824
+Add3	chr19:53320392:+	3' most exon	0.223	0.176
+Mxi1	chr19:53447783:+	3' most exon	0.722	0.708
+Mxi1	chr19:53447159:+	3' most exon	0.166	0.129
+Mxi1	chr19:53448160:+	3' most exon	0.112	0.163
+Smc3	chr19:53719675:+	3' most exon	0.948	0.931
+Smc3	chr19:53720357:+	3' most exon	0.0524	0.0694
+Shoc2	chr19:54107770:+	3' most exon	0.73	0.751
+Shoc2	chr19:54106919:+	3' most exon	0.27	0.249
+Vti1a	chr19:55393048:+	Intron	0.0959	0.11
+Vti1a	chr19:55522886:+	Intron	0.103	0.103
+Vti1a	chr19:55701799:+	3' most exon	0.11	0.0482
+Vti1a	chr19:55698671:+	3' most exon	0.123	0.268
+Vti1a	chr19:55700276:+	3' most exon	0.24	0.331
+Vti1a	chr19:55701341:+	3' most exon	0.329	0.139
+Tcf7l2	chr19:56008094:+	3' most exon	0.464	0.569
+Tcf7l2	chr19:56006502:+	3' most exon	0.195	0.0925
+Tcf7l2	chr19:56007902:+	3' most exon	0.342	0.339
+Nhlrc2	chr19:56677968:+	3' most exon	0.575	0.333
+Nhlrc2	chr19:56673340:+	3' most exon	0.103	0.109
+Nhlrc2	chr19:56672134:+	3' most exon	0.187	0.296
+Nhlrc2	chr19:56673644:+	3' most exon	0.0234	0.0697
+Nhlrc2	chr19:56673190:+	3' most exon	0.111	0.193
+Fam160b1	chr19:57464079:+	3' most exon	0.394	0.31
+Fam160b1	chr19:57462546:+	3' most exon	0.606	0.69
+Trub1	chr19:57563400:+	3' most exon	0.7	0.766
+Trub1	chr19:57565495:+	3' most exon	0.3	0.234
+Gm6020	chr19:61261963:+	Single exon	0.277	0.352
+Gm6020	chr19:61260561:+	Single exon	0.723	0.648
+Aip	chr19:4113756:-	3' most exon	0.246	0.216
+Aip	chr19:4114463:-	3' most exon	0.754	0.784
+Rad9a	chr19:4195226:-	3' most exon	0.86	0.809
+Rad9a	chr19:4195565:-	3' most exon	0.14	0.191
+Grk2	chr19:4286001:-	3' most exon	0.716	0.712
+Grk2	chr19:4287037:-	3' most exon	0.284	0.288
+Kdm2a	chr19:4316144:-	3' most exon	0.9	0.819
+Kdm2a	chr19:4316407:-	3' most exon	0.1	0.181
+Rhod	chr19:4425454:-	3' most exon	0.672	0.719
+Rhod	chr19:4422915:-	3' most exon	0.108	0.0764
+Rhod	chr19:4425667:-	3' most exon	0.22	0.205
+Rbm14	chr19:4801077:-	3' most exon	0.89	0.907
+Rbm14	chr19:4800568:-	3' most exon	0.11	0.0932
+Sf3b2	chr19:5273932:-	3' most exon	0.905	0.904
+Sf3b2	chr19:5286848:-	Internal exon	0.0949	0.096
+Banf1	chr19:5364579:-	3' most exon	0.52	0.375
+Banf1	chr19:5364397:-	3' most exon	0.48	0.625
+Sart1	chr19:5380059:-	3' most exon	0.716	0.547
+Sart1	chr19:5386164:-	Intron	0.23	0.389
+Sart1	chr19:5380219:-	Intron	0.0538	0.0642
+Drap1	chr19:5422808:-	3' most exon	0.937	0.961
+Drap1	chr19:5423378:-	Internal exon	0.0632	0.0388
+Ehbp1l1	chr19:5707367:-	3' most exon	0.0969	0.1
+Ehbp1l1	chr19:5707789:-	3' most exon	0.726	0.744
+Ehbp1l1	chr19:5708049:-	3' most exon	0.177	0.156
+Malat1	chr19:5801793:-	Single exon	0.888	0.898
+Malat1	chr19:5795690:-	Single exon	0.0549	0.0471
+Malat1	chr19:5798426:-	Single exon	0.0572	0.0545
+Neat1	chr19:5842250:-	Single exon	0.894	0.95
+Neat1	chr19:5832872:-	Single exon	0.106	0.0496
+Frmd8	chr19:5850975:-	3' most exon	0.774	0.871
+Frmd8	chr19:5851241:-	3' most exon	0.226	0.129
+Dpf2	chr19:5897225:-	3' most exon	0.542	0.562
+Dpf2	chr19:5897360:-	3' most exon	0.458	0.438
+Cdc42ep2	chr19:5917519:-	3' most exon	0.351	0.333
+Cdc42ep2	chr19:5917235:-	3' most exon	0.649	0.667
+Mrpl49	chr19:6053638:-	3' most exon	0.419	0.358
+Mrpl49	chr19:6054581:-	3' most exon	0.49	0.586
+Mrpl49	chr19:6054215:-	3' most exon	0.0909	0.0558
+Tm7sf2	chr19:6067818:-	5' most exon	0.612	0.697
+Tm7sf2	chr19:6062821:-	3' most exon	0.124	0.14
+Tm7sf2	chr19:6066071:-	Intron	0.264	0.163
+Vps51	chr19:6067991:-	3' most exon	0.615	0.64
+Vps51	chr19:6075903:-	Intron	0.385	0.36
+Prdx5	chr19:6981196:-	3' most exon	0.87	0.907
+Prdx5	chr19:6981562:-	Internal exon	0.13	0.093
+Otub1	chr19:7272728:-	3' most exon	0.777	0.781
+Otub1	chr19:7273186:-	3' most exon	0.223	0.219
+Naa40	chr19:7299866:-	3' most exon	0.934	0.9
+Naa40	chr19:7294505:-	3' most exon	0.0193	0.0764
+Naa40	chr19:7300163:-	3' most exon	0.0469	0.0239
+AI846148	chr19:7447715:-	Intron	0.718	0.465
+AI846148	chr19:7432176:-	3' most exon	0.282	0.535
+Rtn3	chr19:7500458:-	3' most exon	0.396	0.327
+Rtn3	chr19:7501370:-	3' most exon	0.604	0.673
+Tmem179b	chr19:8847054:-	3' most exon	0.82	0.72
+Tmem179b	chr19:8848625:-	Intron	0.18	0.28
+Ttc9c	chr19:8883556:-	3' most exon	0.637	0.623
+Ttc9c	chr19:8884648:-	3' most exon	0.205	0.202
+Ttc9c	chr19:8885871:-	3' most exon	0.108	0.0993
+Ttc9c	chr19:8893565:-	5' most exon	0.0493	0.0753
+Uqcc3	chr19:8954504:-	3' most exon	0.268	0.164
+Uqcc3	chr19:8954626:-	3' most exon	0.601	0.738
+Uqcc3	chr19:8954755:-	3' most exon	0.131	0.098
+Asrgl1	chr19:9186527:-	3' most exon	0.441	0.274
+Asrgl1	chr19:9187342:-	3' most exon	0.401	0.679
+Asrgl1	chr19:9187138:-	3' most exon	0.158	0.0469
+Incenp	chr19:9946832:-	3' most exon	0.941	0.912
+Incenp	chr19:9951216:-	Internal exon	0.0591	0.088
+Sdhaf2	chr19:10576172:-	3' most exon	0.492	0.543
+Sdhaf2	chr19:10576839:-	3' most exon	0.508	0.457
+Ccdc86	chr19:11016878:-	3' most exon	0.149	0.103
+Ccdc86	chr19:11015978:-	3' most exon	0.0843	0.0564
+Ccdc86	chr19:11017064:-	3' most exon	0.596	0.676
+Ccdc86	chr19:11017220:-	3' most exon	0.171	0.165
+Dtx4	chr19:12540825:-	3' most exon	0.574	0.665
+Dtx4	chr19:12542904:-	3' most exon	0.426	0.335
+Zfp91	chr19:12844459:-	3' most exon	0.621	0.645
+Zfp91	chr19:12850902:-	Internal exon	0.21	0.242
+Zfp91	chr19:12841762:-	3' most exon	0.17	0.113
+Vps13a	chr19:16689974:-	3' most exon	0.338	0.301
+Vps13a	chr19:16707046:-	Intron	0.133	0.193
+Vps13a	chr19:16690089:-	3' most exon	0.528	0.507
+1110059E24Rik	chr19:21671774:-	3' most exon	0.925	0.877
+1110059E24Rik	chr19:21702258:-	Intron	0.0754	0.123
+Smc5	chr19:23283221:-	3' most exon	0.255	0.326
+Smc5	chr19:23282387:-	3' most exon	0.118	0.103
+Smc5	chr19:23281149:-	3' most exon	0.382	0.331
+Smc5	chr19:23280775:-	3' most exon	0.245	0.24
+Tjp2	chr19:24168994:-	3' most exon	0.715	0.624
+Tjp2	chr19:24169647:-	3' most exon	0.285	0.376
+Pip5k1b	chr19:24550398:-	Intron	0.518	0.664
+Pip5k1b	chr19:24550673:-	Intron	0.482	0.336
+Fam122a	chr19:24550398:-	3' most exon	0.518	0.664
+Fam122a	chr19:24550673:-	3' most exon	0.482	0.336
+Cbwd1	chr19:25035643:-	Intron	0.274	0.136
+Cbwd1	chr19:24994884:-	3' most exon	0.453	0.487
+Cbwd1	chr19:24994059:-	3' most exon	0.274	0.377
+Pum3	chr19:27464543:-	3' most exon	0.549	0.551
+Pum3	chr19:27463132:-	3' most exon	0.112	0.0747
+Pum3	chr19:27489887:-	Intron	0.0349	0.059
+Pum3	chr19:27464717:-	3' most exon	0.304	0.316
+Glis3	chr19:28333364:-	3' most exon	0.7	0.697
+Glis3	chr19:28333698:-	3' most exon	0.3	0.303
+Acta2	chr19:34315681:-	3' most exon	0.679	0.7
+Acta2	chr19:34316043:-	3' most exon	0.321	0.3
+Pank1	chr19:34885384:-	3' most exon	0.494	0.438
+Pank1	chr19:34886359:-	3' most exon	0.432	0.509
+Pank1	chr19:34886638:-	3' most exon	0.0734	0.0525
+Ide	chr19:37343233:-	3' most exon	0.711	0.586
+Ide	chr19:37345072:-	3' most exon	0.289	0.414
+Myof	chr19:37973524:-	3' most exon	0.716	0.771
+Myof	chr19:37973722:-	3' most exon	0.284	0.229
+Noc3l	chr19:38863621:-	3' most exon	0.447	0.172
+Noc3l	chr19:38863350:-	3' most exon	0.553	0.828
+Sorbs1	chr19:40366585:-	3' most exon	0.424	0.405
+Sorbs1	chr19:40369353:-	3' most exon	0.444	0.516
+Sorbs1	chr19:40420210:-	Intron	0.132	0.0789
+Aldh18a1	chr19:40633379:-	Intron	0.867	0.906
+Aldh18a1	chr19:40624747:-	3' most exon	0.133	0.0942
+Rrp12	chr19:41936479:-	3' most exon	0.114	0.095
+Rrp12	chr19:41937307:-	3' most exon	0.775	0.872
+Rrp12	chr19:41933920:-	3' most exon	0.111	0.0331
+Exosc1	chr19:41997453:-	3' most exon	0.225	0.135
+Exosc1	chr19:41998042:-	3' most exon	0.775	0.865
+Mms19	chr19:42018359:-	3' most exon	0.536	0.554
+Mms19	chr19:42018691:-	3' most exon	0.464	0.446
+Dnmbp	chr19:43981536:-	Intron	0.616	0.624
+Dnmbp	chr19:43921305:-	3' most exon	0.384	0.376
+Erlin1	chr19:44109437:-	3' most exon	0.977	0.888
+Erlin1	chr19:44111123:-	3' most exon	0.0228	0.112
+Cwf19l1	chr19:44183904:-	3' most exon	0.328	0.317
+Cwf19l1	chr19:44184456:-	3' most exon	0.672	0.683
+Scd1	chr19:44468945:-	3' most exon	0.699	0.588
+Scd1	chr19:44472155:-	3' most exon	0.301	0.412
+Ndufb8	chr19:44624433:-	3' most exon	0.595	0.662
+Ndufb8	chr19:44624825:-	Intron	0.158	0.171
+Ndufb8	chr19:44624708:-	3' most exon	0.246	0.167
+Mrpl43	chr19:45079440:-	3' most exon	0.447	0.453
+Mrpl43	chr19:45079912:-	3' most exon	0.23	0.177
+Mrpl43	chr19:45079640:-	3' most exon	0.323	0.369
+Fbxw4	chr19:45652744:-	3' most exon	0.685	0.695
+Fbxw4	chr19:45733438:-	Intron	0.315	0.305
+Mgea5	chr19:45824749:-	3' most exon	0.76	0.674
+Mgea5	chr19:45826328:-	3' most exon	0.24	0.326
+9130011E15Rik	chr19:45891854:-	3' most exon	0.552	0.632
+9130011E15Rik	chr19:45892634:-	3' most exon	0.448	0.368
+Cuedc2	chr19:46405034:-	3' most exon	0.631	0.705
+Cuedc2	chr19:46405134:-	3' most exon	0.369	0.295
+Actr1a	chr19:46451303:-	3' most exon	0.505	0.361
+Actr1a	chr19:46451151:-	3' most exon	0.495	0.639
+Arl3	chr19:46605561:-	3' most exon	0.848	0.739
+Arl3	chr19:46641354:-	Intron	0.152	0.261
+Sh3pxd2a	chr19:47339512:-	3' most exon	0.417	0.615
+Sh3pxd2a	chr19:47334639:-	3' most exon	0.583	0.385
+Smndc1	chr19:53453744:-	3' most exon	0.496	0.459
+Smndc1	chr19:53454894:-	3' most exon	0.0229	0.0729
+Smndc1	chr19:53454179:-	3' most exon	0.237	0.134
+Smndc1	chr19:53458047:-	Internal exon	0.0988	0.0794
+Smndc1	chr19:53453886:-	3' most exon	0.145	0.255
+Bbip1	chr19:54005449:-	3' most exon	0.91	0.903
+Bbip1	chr19:54004146:-	3' most exon	0.0897	0.0973
+Zdhhc6	chr19:55364042:-	3' most exon	0.636	0.734
+Zdhhc6	chr19:55372832:-	3' most exon	0.364	0.266
+Ccdc186	chr19:56862019:-	3' most exon	0.719	0.692
+Ccdc186	chr19:56863724:-	3' most exon	0.281	0.308
+Pdzd8	chr19:59371668:-	3' most exon	0.313	0.245
+Pdzd8	chr19:59370506:-	3' most exon	0.204	0.108
+Pdzd8	chr19:59372951:-	3' most exon	0.376	0.469
+Pdzd8	chr19:59371505:-	3' most exon	0.107	0.177
+Cacul1	chr19:60602909:-	3' most exon	0.136	0.127
+Cacul1	chr19:60600600:-	3' most exon	0.247	0.14
+Cacul1	chr19:60604530:-	3' most exon	0.141	0.232
+Cacul1	chr19:60602536:-	3' most exon	0.402	0.408
+Cacul1	chr19:60603102:-	3' most exon	0.0739	0.0933
+Eif3a	chr19:60837024:-	3' most exon	0.581	0.495
+Eif3a	chr19:60845769:-	Internal exon	0.124	0.146
+Eif3a	chr19:60837729:-	3' most exon	0.095	0.114
+Eif3a	chr19:60847549:-	Internal exon	0.0606	0.076
+Eif3a	chr19:60844740:-	Internal exon	0.105	0.116
+Eif3a	chr19:60843478:-	Internal exon	0.0341	0.053
+Mrpl21	chr19:3291195:+	Intron	1	1
+Cpt1a	chr19:3385733:+	3' most exon	1	1
+1810055G02Rik	chr19:3717878:+	3' most exon	1	1
+Cdk2ap2	chr19:4099011:+	3' most exon	1	1
+Pitpnm1	chr19:4114014:+	3' most exon	1	1
+Coro1b	chr19:4154092:+	3' most exon	1	1
+Ppp1ca	chr19:4195534:+	3' most exon	1	1
+Clcf1	chr19:4223494:+	3' most exon	1	1
+Pold4	chr19:4233685:+	3' most exon	1	1
+Mrpl11	chr19:4964948:+	3' most exon	1	1
+B4gat1	chr19:5041131:+	3' most exon	1	1
+Rin1	chr19:5057071:+	3' most exon	1	1
+Gm25432	chr19:5436416:+	Single exon	1	1
+Fosl1	chr19:5455946:+	3' most exon	1	1
+Fibp	chr19:5465052:+	3' most exon	1	1
+Rela	chr19:5648157:+	3' most exon	1	1
+Ltbp3	chr19:5758629:+	3' most exon	1	1
+Slc25a45	chr19:5885768:+	3' most exon	1	1
+Syvn1	chr19:6053712:+	3' most exon	1	1
+Fau	chr19:6059562:+	3' most exon	1	1
+Znhit2	chr19:6062472:+	Single exon	1	1
+ENSMUSG00000092319	chr19:6062500:+	Single exon	1	1
+Cdca5	chr19:6091771:+	3' most exon	1	1
+Atg2a	chr19:6262336:+	3' most exon	1	1
+Men1	chr19:6340889:+	3' most exon	1	1
+Sf1	chr19:6377224:+	3' most exon	1	1
+Trmt112	chr19:6985571:+	3' most exon	1	1
+Rcor2	chr19:7349715:+	3' most exon	1	1
+2700081O15Rik	chr19:7500398:+	3' most exon	1	1
+Pla2g16	chr19:7660305:+	3' most exon	1	1
+Gm16437	chr19:7743647:+	Single exon	1	1
+Gm22744	chr19:8799711:+	Single exon	1	1
+Gm22680	chr19:8799975:+	Single exon	1	1
+Snord22	chr19:8800933:+	3' most exon	1	1
+Wdr74	chr19:8815114:+	3' most exon	1	1
+Stx5a	chr19:8830132:+	3' most exon	1	1
+Nxf1	chr19:8845400:+	3' most exon	1	1
+Ints5	chr19:8972468:+	3' most exon	1	1
+Ganab	chr19:8991407:+	3' most exon	1	1
+B3gat3	chr19:9001726:+	3' most exon	1	1
+Eml3	chr19:9016072:+	3' most exon	1	1
+Mta2	chr19:9026785:+	3' most exon	1	1
+Tut1	chr19:9040692:+	3' most exon	1	1
+Eef1g	chr19:9052900:+	3' most exon	1	1
+Ahnak	chr19:9093634:+	Intron	1	1
+Pcna-ps2	chr19:9359001:+	Single exon	1	1
+Fads1	chr19:10271364:+	3' most exon	1	1
+Tmem258	chr19:10282306:+	3' most exon	1	1
+Cpsf7	chr19:10622225:+	3' most exon	1	1
+Ddb1	chr19:10704312:+	3' most exon	1	1
+Vps37c	chr19:10789115:+	3' most exon	1	1
+Prpf19	chr19:10980022:+	3' most exon	1	1
+Ms4a4d	chr19:11632957:+	3' most exon	1	1
+Prune2	chr19:17298447:+	3' most exon	1	1
+D030056L22Rik	chr19:18792919:+	3' most exon	1	1
+Mir1192	chr19:23242612:+	3' most exon	1	1
+Gm9493	chr19:23694858:+	Single exon	1	1
+Gm6563	chr19:23751230:+	Single exon	1	1
+Kank1	chr19:25508987:+	3' most exon	1	1
+Smarca2	chr19:26852811:+	3' most exon	1	1
+Gm5518	chr19:29235774:+	Single exon	1	1
+Uhrf2	chr19:30168216:+	3' most exon	1	1
+Cstf2t	chr19:31161086:+	Single exon	1	1
+Papss2	chr19:32741675:+	3' most exon	1	1
+Stambpl1	chr19:34314818:+	3' most exon	1	1
+Ifit2	chr19:34651013:+	3' most exon	1	1
+Rpp30	chr19:36179263:+	3' most exon	1	1
+Hectd2	chr19:36695682:+	3' most exon	1	1
+Tnks2	chr19:36967425:+	3' most exon	1	1
+Gm23300	chr19:38149229:+	Single exon	1	1
+Tbc1d12	chr19:38994149:+	3' most exon	1	1
+Cyp2c55	chr19:39117180:+	3' most exon	1	1
+Zfp518a	chr19:40992432:+	3' most exon	1	1
+Lcor	chr19:41642131:+	3' most exon	1	1
+Gm340	chr19:41661818:+	Single exon	1	1
+AI606181	chr19:41670651:+	Single exon	1	1
+Pgam1	chr19:41993217:+	3' most exon	1	1
+Zdhhc16	chr19:42018592:+	3' most exon	1	1
+Pi4k2a	chr19:42196656:+	3' most exon	1	1
+Marveld1	chr19:42226188:+	3' most exon	1	1
+Zfyve27	chr19:42266208:+	3' most exon	1	1
+R3hcc1l	chr19:42665860:+	3' most exon	1	1
+Cutc	chr19:43843128:+	3' most exon	1	1
+Scd2	chr19:44381402:+	3' most exon	1	1
+Mir5114	chr19:44381402:+	3' most exon	1	1
+Lzts2	chr19:45101594:+	3' most exon	1	1
+Hps6	chr19:46080650:+	3' most exon	1	1
+Gbf1	chr19:46360996:+	3' most exon	1	1
+Fbxl15	chr19:46404935:+	3' most exon	1	1
+Sufu	chr19:46563289:+	3' most exon	1	1
+Trim8	chr19:46591008:+	3' most exon	1	1
+Gsto1	chr19:47939280:+	3' most exon	1	1
+Dusp5	chr19:53616913:+	3' most exon	1	1
+Pdcd4	chr19:54004341:+	3' most exon	1	1
+Acsl5	chr19:55371118:+	3' most exon	1	1
+Atrnl1	chr19:58207833:+	3' most exon	1	1
+Emx2	chr19:59539841:+	3' most exon	1	1
+Fam45a	chr19:60912138:+	3' most exon	1	1
+Grk5	chr19:61168475:+	3' most exon	1	1
+Ighmbp2	chr19:3260924:-	3' most exon	1	1
+Ppp6r3	chr19:3454960:-	3' most exon	1	1
+Lrp5	chr19:3588425:-	Intron	1	1
+Tcirg1	chr19:3896050:-	3' most exon	1	1
+Ndufs8	chr19:3908867:-	3' most exon	1	1
+Ndufv1	chr19:4007533:-	3' most exon	1	1
+Rps6kb2	chr19:4156684:-	3' most exon	1	1
+Lrfn4	chr19:4611841:-	3' most exon	1	1
+Rce1	chr19:4622593:-	3' most exon	1	1
+Ccs	chr19:4825366:-	3' most exon	1	1
+Dpp3	chr19:4907231:-	3' most exon	1	1
+Peli3	chr19:4929717:-	3' most exon	1	1
+Rab1b	chr19:5099205:-	3' most exon	1	1
+Kat5	chr19:5603016:-	3' most exon	1	1
+Sipa1	chr19:5651183:-	3' most exon	1	1
+Pcnx3	chr19:5664635:-	3' most exon	1	1
+Fam89b	chr19:5728087:-	3' most exon	1	1
+Sssca1	chr19:5730263:-	3' most exon	1	1
+Scyl1	chr19:5758318:-	3' most exon	1	1
+Pola2	chr19:5940546:-	3' most exon	1	1
+Zfpl1	chr19:6080762:-	3' most exon	1	1
+Sac3d1	chr19:6115995:-	3' most exon	1	1
+Snx15	chr19:6119399:-	3' most exon	1	1
+Arl2	chr19:6134385:-	3' most exon	1	1
+Rps6ka4	chr19:6903574:-	3' most exon	1	1
+Esrra	chr19:6985470:-	3' most exon	1	1
+Gpr137	chr19:7012560:-	3' most exon	1	1
+Fkbp2	chr19:7052075:-	3' most exon	1	1
+Vegfb	chr19:7056965:-	3' most exon	1	1
+Stip1	chr19:7095192:-	3' most exon	1	1
+Cox8a	chr19:7289639:-	3' most exon	1	1
+Mark2	chr19:7351223:-	3' most exon	1	1
+Slc22a27	chr19:8034112:-	Intron	1	1
+Gm24951	chr19:8034112:-	Single exon	1	1
+Slc3a2	chr19:8782057:-	3' most exon	1	1
+Polr2g	chr19:8867617:-	3' most exon	1	1
+Mir5136	chr19:8962877:-	3' most exon	1	1
+Snora57	chr19:8962877:-	Single exon	1	1
+Rom1	chr19:9001837:-	3' most exon	1	1
+Fads2	chr19:10137068:-	3' most exon	1	1
+Fen1	chr19:10273628:-	3' most exon	1	1
+Tmem216	chr19:10624953:-	3' most exon	1	1
+Tmem138	chr19:10644968:-	3' most exon	1	1
+Tmem132a	chr19:10932319:-	3' most exon	1	1
+Tmem109	chr19:10945150:-	3' most exon	1	1
+Stx3	chr19:11851977:-	Intron	1	1
+Tle4	chr19:14522639:-	3' most exon	1	1
+Psat1	chr19:15979616:-	3' most exon	1	1
+E030024N20Rik	chr19:16238587:-	Single exon	1	1
+Gm10819	chr19:16340922:-	Single exon	1	1
+Ostf1	chr19:18655307:-	3' most exon	1	1
+Anxa1	chr19:20447918:-	3' most exon	1	1
+Fxn	chr19:24336246:-	3' most exon	1	1
+Gm6788	chr19:28837460:-	Single exon	1	1
+Gm5822	chr19:28936498:-	Single exon	1	1
+Gm10136	chr19:29077989:-	Single exon	1	1
+Ak3	chr19:29095322:-	3' most exon	1	1
+Plgrkt	chr19:29423089:-	3' most exon	1	1
+Ermp1	chr19:29684452:-	3' most exon	1	1
+Asah2	chr19:32058683:-	3' most exon	1	1
+Sgms1	chr19:32197220:-	3' most exon	1	1
+Rpl9-ps6	chr19:32540355:-	Single exon	1	1
+Atad1	chr19:32747053:-	3' most exon	1	1
+Lipa	chr19:34566806:-	3' most exon	1	1
+Ankrd1	chr19:36186455:-	3' most exon	1	1
+Cpeb3	chr19:37179140:-	Intron	1	1
+Fra10ac1	chr19:38262967:-	3' most exon	1	1
+Pdlim1	chr19:40296715:-	3' most exon	1	1
+Tm9sf3	chr19:41288176:-	3' most exon	1	1
+Frat2	chr19:41920462:-	3' most exon	1	1
+Avpi1	chr19:42197731:-	3' most exon	1	1
+Hps1	chr19:42829610:-	3' most exon	1	1
+Got1	chr19:43574242:-	3' most exon	1	1
+Slc25a28	chr19:43738291:-	3' most exon	1	1
+Cox15	chr19:43809595:-	3' most exon	1	1
+Gm24400	chr19:43921305:-	Single exon	1	1
+Chuk	chr19:44147825:-	3' most exon	1	1
+Bloc1s2	chr19:44213736:-	3' most exon	1	1
+Gm20538	chr19:44624433:-	Intron	1	1
+Gm6807	chr19:45524755:-	Single exon	1	1
+Poll	chr19:45626765:-	3' most exon	1	1
+Npm3	chr19:45822150:-	3' most exon	1	1
+Ldb1	chr19:46106939:-	3' most exon	1	1
+Nt5c2	chr19:46962842:-	3' most exon	1	1
+Usmg5	chr19:47157888:-	3' most exon	1	1
+Stn1	chr19:47575537:-	3' most exon	1	1
+Itprip	chr19:47969106:-	3' most exon	1	1
+Rpl13a-ps1	chr19:50104568:-	Single exon	1	1
+Xpnpep1	chr19:53065697:-	3' most exon	1	1
+Nutf2-ps1	chr19:53662633:-	Single exon	1	1
+Gpam	chr19:55142130:-	3' most exon	1	1
+Rab11fip2	chr19:59978787:-	3' most exon	1	1
+Fam204a	chr19:60274607:-	3' most exon	1	1
+Prdx3	chr19:60939973:-	3' most exon	1	1
